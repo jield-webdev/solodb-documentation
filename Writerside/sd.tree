@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="sd" name="SoloDB Documentation"
+                  start-page="">
+
+    <toc-element topic="What-is-SoloDB.md"/>
+    <toc-element topic="Equipment.md">
+        <toc-element topic="How-to-set-up-an-SPC-test.md"/>
+        <toc-element topic="How-to-create-new-equipmen.md"/>
+    </toc-element>
+    <toc-element topic="Processes.md">
+        <toc-element topic="How-to-create-a-new-process.md"/>
+    </toc-element>
+    <toc-element topic="Run.md"/>
+    <toc-element topic="Consumables.md"/>
+</instance-profile>
