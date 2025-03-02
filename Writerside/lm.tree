@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="lm"
+                  name="LeapMe"
+                  start-page="leapme.md" is-library="true">
+
+    <toc-element topic="leapme.md"/>
+    <toc-element toc-title="Introduction">
+    </toc-element>
+    <toc-element topic="Runs.md"/>
+</instance-profile>

@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="sd" name="SoloDB Documentation"
-                  start-page="">
+                  start-page="Equipment.md">
 
     <toc-element topic="What-is-SoloDB.md"/>
     <toc-element topic="Equipment.md">
@@ -15,4 +15,5 @@
     </toc-element>
     <toc-element topic="Run.md"/>
     <toc-element topic="Consumables.md"/>
+    <toc-element topic="leapme.md"/>
 </instance-profile>
